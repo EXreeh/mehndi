@@ -30,12 +30,12 @@ Notes:
 import React, { useState } from 'react';
 
 const sampleGallery = [
-  'https://images.unsplash.com/photo-1520975914239-3a2b8a0ec5cc?auto=format&fit=crop&w=800&q=60',
-  'https://images.unsplash.com/photo-1605902711622-cfb43c44367e?auto=format&fit=crop&w=800&q=60',
-  'https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=60',
-  'https://images.unsplash.com/photo-1562158070-8f2e8a0f8c8f?auto=format&fit=crop&w=800&q=60',
-  'https://images.unsplash.com/photo-1556228720-546b2b1a3ddc?auto=format&fit=crop&w=800&q=60',
-  'https://images.unsplash.com/photo-1543959835-37d3e9e80fbb?auto=format&fit=crop&w=800&q=60'
+  'https://imgs.search.brave.com/eXCRcorHSgPoTENK2DoexvhfM0e2D8Hem8hQP3Nx-RQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWVo/bmRpZGVzaWduLmlu/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9yb3lh/bC1mcm9udC1tZWhu/ZGktZGVzaWduLmpw/Zw',
+  'https://imgs.search.brave.com/eXCRcorHSgPoTENK2DoexvhfM0e2D8Hem8hQP3Nx-RQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWVo/bmRpZGVzaWduLmlu/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9yb3lh/bC1mcm9udC1tZWhu/ZGktZGVzaWduLmpw/Zw',
+  'https://imgs.search.brave.com/eXCRcorHSgPoTENK2DoexvhfM0e2D8Hem8hQP3Nx-RQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWVo/bmRpZGVzaWduLmlu/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9yb3lh/bC1mcm9udC1tZWhu/ZGktZGVzaWduLmpw/Zw',
+  'https://imgs.search.brave.com/eXCRcorHSgPoTENK2DoexvhfM0e2D8Hem8hQP3Nx-RQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWVo/bmRpZGVzaWduLmlu/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9yb3lh/bC1mcm9udC1tZWhu/ZGktZGVzaWduLmpw/Zw',
+  'https://imgs.search.brave.com/eXCRcorHSgPoTENK2DoexvhfM0e2D8Hem8hQP3Nx-RQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWVo/bmRpZGVzaWduLmlu/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9yb3lh/bC1mcm9udC1tZWhu/ZGktZGVzaWduLmpw/Zw',
+  'https://imgs.search.brave.com/eXCRcorHSgPoTENK2DoexvhfM0e2D8Hem8hQP3Nx-RQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWVo/bmRpZGVzaWduLmlu/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9yb3lh/bC1mcm9udC1tZWhu/ZGktZGVzaWduLmpw/Zw'
 ];
 
 export default function App() {
@@ -120,7 +120,7 @@ export default function App() {
                 </ul>
               </div>
               <div className="col-md-6 text-center">
-                <img src="https://images.unsplash.com/photo-1520975914239-3a2b8a0ec5cc?auto=format&fit=crop&w=600&q=60" alt="mehndi" className="img-fluid rounded shadow" />
+                <img src="https://imgs.search.brave.com/eXCRcorHSgPoTENK2DoexvhfM0e2D8Hem8hQP3Nx-RQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWVo/bmRpZGVzaWduLmlu/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9yb3lh/bC1mcm9udC1tZWhu/ZGktZGVzaWduLmpw/Zw" alt="mehndi" className="img-fluid rounded shadow" />
               </div>
             </div>
           </div>
